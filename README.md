@@ -6,7 +6,7 @@
 
 Apply for an 8 week educational experience at William & Mary learning programming, statistics, and machine learning skills by working on problems in hypersonics. 
 
-**Who:** Positions available for undergraduate and high school
+**Who:** Positions available for continuing undergraduate and high school
 students. No previous aerospace experience required.
 
 **When:** June 17th - August 9th, 2024
