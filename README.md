@@ -1,7 +1,5 @@
 <img src="banner.png" width="100%">
 
-# HyperStats24
-
 # Summer Opportunity [[flyer](hyperstats.pdf)]
 
 ## Gain experience applying statistics and machine learning to help develop hypersonic aircraft
