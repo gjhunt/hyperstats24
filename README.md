@@ -18,7 +18,7 @@ students. No previous aerospace experience required.
 
 **How to apply:**
   
-Complete the following form: [link](link)
+Complete the following form: [link](https://forms.gle/ENz4uTT5NjPpW3sq7)
 
 *Application close date: Jan 12, 2024*
 
