@@ -1,10 +1,10 @@
 <img src="banner.png" width="100%">
 
-# Summer Opportunity [[flyer](hyperstats.pdf)]
+# Summer Research Opportunity [[flyer](hyperstats.pdf)]
 
 ## Gain experience applying statistics and machine learning to help develop hypersonic aircraft
 
-Participate in an 8-week summer educational program at William & Mary, where you will enhance your programming, statistics, and machine learning skills by tackling real-world challenges in the field of hypersonic aerodynamics.
+Participate in an 8-week summer research internship at William & Mary, where you will enhance your programming, statistics, and machine learning skills by tackling real-world challenges in the field of hypersonic aerodynamics.
 
 Collaborate with a small cohort of fellow participants and a larger group of summer research students at William & Mary.
 
@@ -14,8 +14,8 @@ Collaborate with a small cohort of fellow participants and a larger group of sum
 
 **Where:** William & Mary, Williamsburg, VA 23185
 
-- Stipend to help offset costs available.
-- On-campus housing for undergrads.
+**Stipend:** Competitive stipend paid to help to defray living expenses.
+**Housing:** Free on-campus housing for undergrads.
 
 **How to apply:**
   
