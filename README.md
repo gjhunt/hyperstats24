@@ -14,7 +14,7 @@ Collaborate with a small cohort of fellow participants and a larger group of sum
 
 **Where:** William & Mary, Williamsburg, VA 23185
 
-**Stipend:** Competitive stipend paid to help to defray living expenses.
+**Stipend:** Stipend paid to help to defray living expenses.
 
 **Housing:** Free on-campus housing for undergrads.
 
